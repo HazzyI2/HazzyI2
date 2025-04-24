@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @HazzyI2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Hazzy I  
+**Microsoft Dynamics 365 Consultant | Power Platform Specialist | Business Applications Expert**
 
-<!---
-HazzyI2/HazzyI2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- Dynamics 365 Customer Engagement (CE)  
+- Power Apps & Power Automate  
+- Model-Driven and Canvas Apps  
+- Dataverse & Business Rules  
+- Custom Workflows and Plugins  
+- Integration with SharePoint, Outlook, and Teams  
+
+**Currently Learning**  
+- Dynamics 365 Finance & Operations  
+- Azure Functions & Logic Apps  
+- Power Pages Development  
+- AI Builder and Virtual Agents  
+
+**Looking to Collaborate On**  
+- Dynamics 365 customizations and implementations  
+- Power Platform automation solutions  
+- Business process optimization through Dynamics apps  
+
+**Contact**  
+- Email: ihazzy229@gmail.com
